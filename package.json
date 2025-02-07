@@ -1,0 +1,17 @@
+{
+  "name": "wash-resilience-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest",
+    "next": "latest",
+    "react-leaflet": "latest",
+    "leaflet": "latest"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
