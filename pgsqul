@@ -1,0 +1,12 @@
+wash-resilience-app/
+│── components/
+│   └── WASHClimateResilience.js
+│── pages/
+│   └── index.js
+│── package.json
+│── package-lock.json (opcional)
+│── public/
+│── styles/ (opcional)
+│── .gitignore
+│── README.md (opcional)
+│── next.config.js (opcional, solo si usas Next.js)
